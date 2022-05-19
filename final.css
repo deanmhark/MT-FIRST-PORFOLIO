@@ -1,0 +1,66 @@
+.home {
+  background-image: url(istockphoto-1139459625-170667a.jpg) ;
+  background-size: cover;
+}
+.Profile {
+  text-align: center;
+}
+.PProfile {
+  font-family: sans-serif;
+  border-radius: : 10px solid white;
+   border-radius: 40px;
+   padding: 5px;
+   width: 350px;
+}
+.PPProfile {
+  color: white;
+  padding-top: 20px;
+  font-size: 40px;
+  margin: 0px;
+
+}
+.PPPProfile {
+  color: white;
+  font-size: 30px;
+  margin: 0px;
+}
+.PPPPProfile{
+  color: white;
+  font-size: 20px;
+  margin: 0;
+}
+.Content{
+  background-image: url(old-newspaper-background-260nw-729785416.webp);
+  font-family: sans-serif;
+  float: left;
+  background-color: white;
+  width: 900px;
+  height: 300px;
+  border: 1px solid black;
+  padding: 3px;
+  margin: 3px;
+}
+.Content1 {
+  background-image: url(old-newspaper-background-260nw-729785416.webp);
+  font-family: sans-serif;
+  float: right;
+  background-color: white;
+  width: 900px;
+  height: 300px;
+  border: 1px solid black;
+  padding: 3px;
+  margin: 3px;
+}
+
+.main2 {
+	text-align: center;
+}
+.icon1 {
+  text-align: center;
+  color: white;
+}
+.icon {
+	height: 50px;
+	margin: 20px;
+  padding-right: 40px;
+}
